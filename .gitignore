@@ -1,0 +1,6 @@
+*.xml
+*.iml
+
+# Baekjoon 폴더 내부의 .gitignore 및 .idea 파일/폴더 무시
+Baekjoon/**/.gitignore
+Baekjoon/**/.idea/
